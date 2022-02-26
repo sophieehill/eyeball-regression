@@ -1,0 +1,14 @@
+name: eyeball-regression
+title: eyeball-regression
+username:
+account: sophieehill
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5740030
+bundleId: 5621234
+url: https://sophieehill.shinyapps.io/eyeball-regression/
+when: 1645904842.50742
+lastSyncTime: 1645904842.50745
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: LICENSE|README.md
